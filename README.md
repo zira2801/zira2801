@@ -1,4 +1,7 @@
-## Hi there 👋
+![download](https://github.com/user-attachments/assets/959b6a55-0a5a-4795-9678-53e72227a307)
+
+
+## Hi there 👋 My name is Duy Cao
 
 <!--
 **zira2801/zira2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
