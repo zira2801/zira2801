@@ -37,7 +37,9 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a>
-
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   </a>
