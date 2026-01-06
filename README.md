@@ -1,11 +1,4 @@
 ![download](https://github.com/user-attachments/assets/959b6a55-0a5a-4795-9678-53e72227a307)
-
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7bf0b23b-1641-4eef-a463-3556ad5c1f90" />
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ceb4c68b-87d6-493a-9b05-c27fa7d8757d" />
-<img width="825" height="433" alt="image" src="https://github.com/user-attachments/assets/0922477b-268e-49f1-ad99-8b59e3461f96" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6831eb45-23da-4f3d-95ff-0f60d67eab8a" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/52a60a53-9343-409b-b173-e542dd975e03" />
-
 <div align="center">
 
   <!-- Optional: Animated Banner (thay link GIF nếu có) -->
@@ -33,36 +26,42 @@
 
   <br><br>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zira2801&show_icons=true&theme=radical" alt="Duy's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zira2801&theme=radical" alt="Streak Stats" height="180"/>
-  
-  <br><br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zira2801&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zira2801&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
-
-  <br><br>
-
   <!-- Projects Showcase - Ảnh nằm ngang đẹp -->
-  <h2>🔥 Featured Projects</h2>
-  
-  <div>
-    <img src="https://github.com/user-attachments/assets/7bf0b23b-1641-4eef-a463-3556ad5c1f90" alt="Project 1" width="32%"/>
-    <img src="https://github.com/user-attachments/assets/ceb4c68b-87d6-493a-9b05-c27fa7d8757d" alt="Project 2" width="32%"/>
-    <img src="https://github.com/user-attachments/assets/0922477b-268e-49f1-ad99-8b59e3461f96" alt="Project 3" width="32%"/>
-  </div>
-  
+ <h2>🔥 Featured Projects</h2>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/4da5ff20-3487-4866-b789-c25d4ed00cb4" height="450" alt="Project 1"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/ceb4c68b-87d6-493a-9b05-c27fa7d8757d" height="450" alt="Project 2"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/0922477b-268e-49f1-ad99-8b59e3461f96" height="450" alt="Project 3"/>
+      </td>
+    </tr>
+  </table>
+
   <br>
-  
-  <div>
-    <img src="https://github.com/user-attachments/assets/6831eb45-23da-4f3d-95ff-0f60d67eab8a" alt="Project 4" width="48%"/>
-    <img src="https://github.com/user-attachments/assets/52a60a53-9343-409b-b173-e542dd975e03" alt="Project 5" width="48%"/>
-  </div>
-  
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/6831eb45-23da-4f3d-95ff-0f60d67eab8a" height="250" alt="Project 4"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/52a60a53-9343-409b-b173-e542dd975e03" height="250" alt="Project 5"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<p align="center"><i>Click on pinned repositories below for more details!</i></p>
+<br><br>
   <p><i>Click on pinned repositories below for more details!</i></p>
 
   <br><br>
@@ -76,4 +75,4 @@
   <!-- Visitors -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zira2801.zira2801" alt="Visitors"/>
 
-</div>
+</div>**
