@@ -83,9 +83,17 @@
     <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude" height=28/>
   </a>
   <a href="https://grok.x.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" height=30/>
+    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" height=28/>
   </a>
-
+  <a href="https://www.deepseek.com/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek" height=28/>
+  </a>
+    <a href="https://github.com/features/copilot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" height=28/>
+  </a>
+    <a href="https://gemini.google.com/app?hl=vi" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Geimini" height=28/>
+  </a>
 </div>
 <br><br>
 
