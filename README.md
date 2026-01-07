@@ -54,19 +54,21 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height=28/>
   </a>
-
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" height=28/>
+  </a>
   <br><br>
 
   <h3>🔧 Tools & Technologies</h3>
   
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height=28/>
   </a>
     <a href="https://swagger.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
   </a>
   <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="Redis" height=28/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
