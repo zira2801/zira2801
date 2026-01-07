@@ -47,6 +47,9 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   </a>
+    <a href="https://swagger.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
+  </a>
   <a href="https://redis.io/" target="_blank">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   </a>
