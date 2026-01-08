@@ -73,7 +73,9 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" height=28/>
   </a>
-
+  <a href="https://github.com/zira2801" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github" height=28/>
+  </a
   <br><br>
 
   <h3>🤖 AI Assistants</h3>
