@@ -2,13 +2,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Duy%20Cao&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=18&descColor=8BACC8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Cao%20Thanh%20Duy&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Flutter%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=65&descSize=18&descColor=8BACC8"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/zira2801">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+scalable+mobile+%26+backend+systems;Flutter+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Clean+code.+Performant+solutions.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Building+scalable+mobile+%26+backend+systems;Flutter+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Clean+code.+Performant+solutions.+Real+impact." alt="Typing SVG" />
 </a>
-
 <br/>
 
 <!-- Profile badges -->
@@ -31,7 +30,7 @@
 const duy = {
   role        : "Full-Stack Developer",
   location    : "Ho Chi Minh City, Vietnam 🇻🇳",
-  experience  : "1 year professional",
+  experience  : "1+ year professional",
   focus       : ["Mobile (Flutter)", "Backend (Node.js/TS)", "Database (PostgreSQL)"],
   currentWork : "Building cross-platform apps & scalable APIs",
   passion     : "Clean code, great UX, and real-world impact",
