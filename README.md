@@ -1,153 +1,210 @@
 ![download](https://github.com/user-attachments/assets/959b6a55-0a5a-4795-9678-53e72227a307)
 <div align="center">
 
-  <!-- Optional: Animated Banner (thay link GIF nếu có) -->
-  <!-- <img src="https://your-banner-gif.gif" alt="Banner" width="100%"/> -->
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Duy%20Cao&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=18&descColor=8BACC8"/>
 
-  <h1>Hi there 👋, I'm Duy Cao</h1>
-  
-  <p>
-    <strong>Full-Stack Developer</strong> | Flutter · Node.js · TypeScript · PostgreSQL
-  </p>
-  
-  <p>Passionate Full-Stack Developer based in Ho Chi Minh City, Vietnam.</p>
-  
-  <p>With 1 year of professional experience, I build cross-platform mobile applications using Flutter and scalable backend systems with Node.js and TypeScript. Proficient in PostgreSQL for robust database design and management, delivering clean, performant, and user-focused solutions.</p>
-  
-<div align="center">
+<!-- Animated Typing SVG -->
+<a href="https://github.com/zira2801">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+scalable+mobile+%26+backend+systems;Flutter+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Clean+code.+Performant+solutions.+Real+impact." alt="Typing SVG" />
+</a>
 
-  <h3>🛠️ Tech Stack</h3>
-  
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="Flutter" height=28/>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart" height=28/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" height=28/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase" height=28/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js" height=28/>
-  </a>
-    <a href="https://www.w3schools.com/js/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" height=28/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" height=28/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" height=28/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB" height=28/>
-  </a>
-    <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" height=28/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express" height=28/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height=28/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" height=28/>
-  </a>
-  <br><br>
+<br/>
 
-  <h3>🔧 Tools & Technologies</h3>
-  
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height=28/>
-  </a>
-    <a href="https://swagger.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" alt="Swagger" height=28/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="Redis" height=28/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" height=28/>
-  </a>
-  <a href="https://github.com/zira2801" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github" height=28/>
-  </a
-  <br><br>
+<!-- Profile badges -->
+<p>
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-1%20Year%20Professional-22c55e?style=flat-square&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Backend-a855f7?style=flat-square&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-f59e0b?style=flat-square&logo=statuspal&logoColor=white"/>
+</p>
 
-  <h3>🤖 AI Assistants</h3>
-  
-  <a href="https://chatgpt.com/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" height=28/>
-  </a>
-  <a href="https://claude.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude" height=28/>
-  </a>
-  <a href="https://grok.x.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" height=28/>
-  </a>
-  <a href="https://www.deepseek.com/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek" height=28/>
-  </a>
-    <a href="https://github.com/features/copilot" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" height=28/>
-  </a>
-    <a href="https://gemini.google.com/app?hl=vi" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Geimini" height=28/>
-  </a>
-</div>
-<br><br>
+<br/>
 
-  <!-- Projects Showcase - Ảnh nằm ngang đẹp -->
- <h2>🔥 Featured Projects</h2>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/4da5ff20-3487-4866-b789-c25d4ed00cb4" height="450" alt="Project 1"/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/ceb4c68b-87d6-493a-9b05-c27fa7d8757d" height="450" alt="Project 2"/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/0922477b-268e-49f1-ad99-8b59e3461f96" height="450" alt="Project 3"/>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/6831eb45-23da-4f3d-95ff-0f60d67eab8a" height="250" alt="Project 4"/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/52a60a53-9343-409b-b173-e542dd975e03" height="250" alt="Project 5"/>
-      </td>
-    </tr>
-  </table>
+---
 
 </div>
 
-<p align="center"><i>Click on pinned repositories below for more details!</i></p>
-<br><br>
-  <p><i>Click on pinned repositories below for more details!</i></p>
+## ⚡ About Me
 
-  <br><br>
+```typescript
+const duy = {
+  role        : "Full-Stack Developer",
+  location    : "Ho Chi Minh City, Vietnam 🇻🇳",
+  experience  : "1 year professional",
+  focus       : ["Mobile (Flutter)", "Backend (Node.js/TS)", "Database (PostgreSQL)"],
+  currentWork : "Building cross-platform apps & scalable APIs",
+  passion     : "Clean code, great UX, and real-world impact",
+  contact     : "duythanhcao456@gmail.com",
+};
+```
 
-  <!-- Connect -->
-  <p>
-    🔗 <a href="https://github.com/zira2801">Portfolio/GitHub</a> • 
-    📫 <a href="mailto:duythanhcao456@gmail.com">duythanhcao456@gmail.com</a>
-  </p>
-  
-  <!-- Visitors -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zira2801.zira2801" alt="Visitors"/>
+<br/>
 
-</div>**
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔧 Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 AI Tools I Use Daily
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zira2801&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zira2801&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=zira2801&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zira2801&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F59E0B&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 What I'm Building
+
+<div align="center">
+
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| 📱 Cross-platform mobile app | Flutter · Firebase · Node.js | 🟢 Active |
+| 🔌 RESTful API service | TypeScript · Express · PostgreSQL | 🟢 Active |
+| 🗃️ Real-time data pipeline | Redis · Docker · Prisma | 🔵 Planning |
+
+</div>
+
+<br/>
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   "First, solve the problem. Then, write the code."         ║
+  ║                                                              ║
+  ║   ▸ Write code others can read tomorrow                      ║
+  ║   ▸ Design APIs like they're public — even when they're not  ║
+  ║   ▸ Ship fast, refactor with purpose                         ║
+  ║   ▸ The best code is the code you don't have to write        ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zira2801/zira2801/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zira2801/zira2801/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zira2801/zira2801/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 Skill Proficiency
+
+```text
+Flutter / Dart      ████████████████████░░░░   80%
+Node.js             ███████████████████░░░░░░   76%
+TypeScript          ██████████████████░░░░░░░   72%
+PostgreSQL          ████████████████░░░░░░░░░   64%
+Docker              █████████████░░░░░░░░░░░░   52%
+MongoDB             ████████████░░░░░░░░░░░░░   48%
+Redis               ██████████░░░░░░░░░░░░░░░   40%
+```
+
+<br/>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/zira2801">
+  <img src="https://img.shields.io/badge/GitHub-zira2801-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:duythanhcao456@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-duythanhcao456-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 *Open to collaborating on interesting mobile or backend projects. Feel free to reach out!*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=zira2801&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
