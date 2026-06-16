@@ -190,7 +190,10 @@ Redis               ██████████░░░░░░░░░░
 <a href="mailto:duythanhcao456@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-duythanhcao456-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
+<a href="https://www.linkedin.com/in/cao-thanh-duy" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Cao%20Thanh%20Duy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <br/><br/>
 
 > 💬 *Open to collaborating on interesting mobile or backend projects. Feel free to reach out!*
