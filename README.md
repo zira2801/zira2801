@@ -191,8 +191,8 @@ Redis               ██████████░░░░░░░░░░
   <img src="https://img.shields.io/badge/Gmail-duythanhcao456-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/cao-thanh-duy" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Cao%20Thanh%20Duy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/cao-thanh-duy">
+  <img src="https://img.shields.io/badge/LinkedIn-Cao%20Thanh%20Duy-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"/>
 </a>
 <br/><br/>
 
