@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- ORIGINAL GIF — KEEP THIS -->
-![download](https://github.com/user-attachments/assets/959b6a55-0a5a-4795-9678-53e72227a307)
 ![Animated Banner](https://github.com/user-attachments/assets/959b6a55-0a5a-4795-9678-53e72227a307)
 
 <br/>
