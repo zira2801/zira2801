@@ -7,12 +7,14 @@
 
 <!-- ANIMATED HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0891B2&height=220&section=header&text=CAO%20THANH%20DUY&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND-FOCUSED&descAlignY=60&descSize=17&descColor=67E8F9"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0891B2&height=220&section=header&text=CAO%20THANH%20DUY&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MOBILE-FOCUSED&descAlignY=60&descSize=17&descColor=67E8F9"/>
 <!-- TYPING ANIMATION -->
 
 <a href="https://github.com/zira2801">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Building+Reliable+%26+Scalable+Software;NestJS+%7C+Next.js+%7C+Flutter+%7C+PostgreSQL;Backend+Engineering+%26+System+Integration;From+Architecture+to+Production" alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Full-Stack+Developer+%7C+Mobile+%26+Backend;Flutter+%7C+NestJS+%7C+Next.js+%7C+PostgreSQL;Building+Cross-Platform+Apps+%26+Scalable+APIs;From+Mobile+Experiences+to+Backend+Systems"
+    alt="Typing SVG"
+  />
 </a>
 
 <br/><br/>
@@ -20,7 +22,7 @@
 <!-- PROFILE BADGES -->
 
 <img src="https://img.shields.io/badge/LOCATION-HO_CHI_MINH_CITY-0891B2?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%2F_BACKEND-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%2F_MOBILE-2563EB?style=for-the-badge&labelColor=020617"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-16A34A?style=for-the-badge&labelColor=020617"/>
 
 <br/><br/>
@@ -47,33 +49,34 @@
 
 I'm a **Full-Stack Developer** based in Ho Chi Minh City, Vietnam 🇻🇳, with hands-on experience building mobile applications, backend services, web platforms, and system integrations.
 
-My primary focus is **Backend Engineering**, with an interest in designing maintainable APIs, database systems, asynchronous processing workflows, and reliable production services.
+My strongest professional foundation is **Flutter and cross-platform mobile development**. I also build backend services and web applications with Node.js, NestJS, Next.js, and PostgreSQL, and I am growing further into backend engineering.
 
-I enjoy working across the stack — from backend architecture and infrastructure to modern web interfaces and cross-platform mobile applications.
+I enjoy delivering complete features across mobile, API, database, and deployment layers — with an emphasis on maintainable code, practical architecture, and real-world usability.
 
 ```typescript
 const duy = {
   name: "Cao Thanh Duy",
   role: "Full-Stack Developer",
-  specialization: "Mobile Developer",
+  strongestArea: "Flutter / Mobile Engineering",
+  direction: "Full-Stack Development + Backend Growth",
 
   primaryStack: [
+    "Flutter",
+    "Dart",
+    "BLoC",
     "TypeScript",
-    "NestJS",
-    "Next.js",
-    "PostgreSQL",
-    "Redis",
-    "Docker"
+    "Node.js",
+    "PostgreSQL"
   ],
 
-  additionalExperience: [
-    "Flutter",
-    "Node.js",
-    ".NET 8",
-    "Windows Services"
+  fullStackToolbox: [
+    "NestJS", "Next.js", "Redis", "Docker"
   ],
+
+  additionalExperience: [".NET 8", "Windows Services"],
 
   engineeringInterests: [
+    "Mobile Architecture",
     "Backend Architecture",
     "System Integration",
     "Asynchronous Processing",
@@ -97,10 +100,10 @@ const duy = {
 
 ## ⚡ Engineering Focus
 
+- 📱 **Mobile Engineering — Core Strength** — Flutter, Dart, BLoC, Clean Architecture, performance optimization, and app releases.
 - 🏗️ **Backend Engineering** — REST APIs, authentication, caching, background jobs, and database design.
-- 🌐 **Full-Stack Development** — Building modern applications with Next.js, React, NestJS, and PostgreSQL.
+- 🌐 **Full-Stack Development** — Building web applications with Next.js, React, NestJS, and PostgreSQL.
 - 🔄 **System Integration** — Connecting desktop agents, backend services, databases, and real-time communication.
-- 📱 **Mobile Engineering** — Developing cross-platform Flutter applications using maintainable architecture.
 - 🚀 **DevOps & Deployment** — Docker, Nginx, Linux servers, cloud services, and deployment workflows.
 - 🧠 **Continuous Learning** — Exploring system design, distributed architectures, and backend performance.
 
@@ -148,6 +151,36 @@ const duy = {
 
 # 🚀 Featured Engineering Projects
 
+## 📱 Event Management Platform — Personal Project
+
+**Flutter Mobile · Node.js Backend · End-to-End Product Development**
+
+A cross-platform event management platform combining a Flutter mobile application with a TypeScript backend and relational database.
+
+**Technology Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Key Features & Engineering Work
+
+- Built a Flutter mobile application using BLoC and Clean Architecture principles.
+- Developed RESTful APIs with Node.js, Express, and TypeScript.
+- Designed relational data models using PostgreSQL and Prisma ORM.
+- Implemented authentication, user management, and event-related workflows.
+- Integrated Redis for caching and background processing.
+- Worked with cloud storage and third-party service integrations.
+- Explored AI-powered functionality and semantic search.
+
+**Development Status:** 🟢 Active Development
+
+<br/>
+
 ## 🛡️ Enterprise Endpoint Monitoring & Data Protection
 
 **Full-Stack Development · Backend Engineering · Windows Agent Integration**
@@ -181,41 +214,11 @@ An enterprise-oriented endpoint monitoring and data protection platform integrat
 
 <br/>
 
-## 📱 Event Management Platform
-
-**Personal Project · Flutter · Backend Development**
-
-A cross-platform event management platform combining a Flutter mobile application with a TypeScript backend and relational database.
-
-**Technology Stack**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Key Features & Engineering Work
-
-- Built a Flutter mobile application using BLoC and Clean Architecture principles.
-- Developed RESTful APIs with Node.js, Express, and TypeScript.
-- Designed relational data models using PostgreSQL and Prisma ORM.
-- Implemented authentication, user management, and event-related workflows.
-- Integrated Redis for caching and background processing.
-- Worked with cloud storage and third-party service integrations.
-- Explored AI-powered functionality and semantic search.
-
-**Development Status:** 🟢 Active Development
-
-<br/>
-
-## 📲 Cross-Platform Mobile Applications
+## 📲 Professional Flutter Applications
 
 **Professional Flutter Development Experience**
 
-Experience developing, optimizing, and maintaining Flutter applications.
+Hands-on experience developing, optimizing, maintaining, and releasing Flutter applications, with mobile engineering as my strongest professional skill set.
 
 ### Technical Highlights
 
@@ -232,7 +235,7 @@ Experience developing, optimizing, and maintaining Flutter applications.
 
 # 🏗️ Architecture & System Design
 
-I enjoy understanding how different components interact to build reliable software systems.
+Alongside mobile development, I enjoy understanding how APIs, workers, databases, and clients work together in reliable systems.
 
 The following diagram illustrates a **simplified reference architecture** for an agent-connected management platform.
 
@@ -281,7 +284,7 @@ flowchart TB
 ```text
 01  /  Design for maintainability
 02  /  Understand before optimizing
-03  /  Build reliable backend services
+03  /  Build smooth mobile experiences and reliable APIs
 04  /  Keep architecture practical
 05  /  Automate repetitive workflows
 06  /  Measure performance, don't guess
@@ -333,6 +336,10 @@ flowchart TB
 # 🌱 Currently Exploring
 
 ```yaml
+mobile_engineering:
+  - Flutter Performance & Architecture
+  - Advanced State Management
+
 backend_engineering:
   - Advanced NestJS Architecture
   - Domain-Driven Design
@@ -378,7 +385,7 @@ devops:
 
 <div align="center">
 
-I'm interested in opportunities involving **Full-Stack Development, Backend Engineering, and Software Architecture**.
+I'm open to opportunities in **Flutter / Mobile Development, Full-Stack Development, and Backend Engineering**.
 
 Feel free to connect, collaborate, or discuss interesting engineering challenges.
 
